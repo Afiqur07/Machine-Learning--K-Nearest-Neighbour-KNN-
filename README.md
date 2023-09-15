@@ -7,7 +7,7 @@ Methods Used: Euclidean and Manhattan.
 
 The Data: The training dataset consists of glucose metabolism features taken from the above mentioned two brain regions across 200 sNC and 200 sDAT individuals given in the train.sNC.csv and train.sDAT.csv files respectively. The test.sNC.csv and test.sDAT.csv files correspond to a test dataset with the same brain glucose metabolism features taken from another 100 sNC and 100 sDAT individuals respectively.
 
-A snippet of one of the Data file:
+A snippet of one of the Data files:
 
 ![image](https://github.com/Afiqur07/Machine-Learning--K-Nearest-Neighbour-KNN-/assets/27920239/5fb4bf9d-c396-4f5a-9bc8-0b0eec8fb238)
 

@@ -3,6 +3,9 @@ An effective Machine Learning model predicting Dementia using K-Nearest Neighbou
 
 The Problem: The goal of this project is to compare the glucose metabolism measurements taken from the isthmuscingulate and precuneus regions of the brain between healthy individuals or stable normal controls (sNC) and individuals with advanced or stable DAT (sDAT). Specifically, I attempted to build a kNN classifier that can predict if an individual belongs to the sNC group or the sDAT group based on their brain glucose metabolism signatures.
 
+![image](https://github.com/Afiqur07/Machine-Learning--K-Nearest-Neighbour-KNN-/assets/27920239/d347350e-467d-496d-85cc-960a1a784e7c)
+
+
 Methods Used: Euclidean and Manhattan.
 
 The Data: The training dataset consists of glucose metabolism features taken from the above mentioned two brain regions across 200 sNC and 200 sDAT individuals given in the train.sNC.csv and train.sDAT.csv files respectively. The test.sNC.csv and test.sDAT.csv files correspond to a test dataset with the same brain glucose metabolism features taken from another 100 sNC and 100 sDAT individuals respectively.
